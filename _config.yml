@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Chen's Homepage"
+title                    : "Cunhan Guo's Homepage"
 title_separator          : "-"
-name                     : &name "Hao Chen"
+name                     : &name "Cunhan Guo"
 description              : &description "personal description"
-url                      : https://timebreaker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://divine0719.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : " TimeBreaker/TimeBreaker.github.io "
+repository               : " Divine0719/Divine0719.github.io "
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
