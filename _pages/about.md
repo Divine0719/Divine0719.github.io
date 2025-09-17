@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin), at [Pattern Recognition and Intelligent System Development Laboratory](http://lamp.ucas.ac.cn/), [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh). My research interests include Reinforcement Learning, Multi-agent Learning, and Large Language Model (LLM) Agents. I am looking for cooperation opportunities. If you are interested with my experience or research, please feel free to contact me via Email.
+I'm a postdoctoral fellow and assistant researcher at the School of Computer Science and Technology at Beijing Institute of Technology. I also serve as the director of the research department and a specially-appointed associate researcher at the Southeast Institute of Information Technology at Beijing Institute of Technology. My research interests include Multimodal Cognition and Computer Vision, and Large Language Model (LLM) Agents. I am looking for cooperation opportunities. If you are interested with my experience or research, please feel free to contact me via Email.
 
 <!-- News -->
 
@@ -49,11 +49,11 @@ I’m currently a Ph.D. student in Computer Science advised by [Prof. Jianbin Ji
 
 Education
 ======
-* 2023.9 - 2024.8 : Visiting Scholar at [SpaceTimeLab, University College London](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), advised by [Prof. Tao Cheng](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/prof-tao-cheng)
-* 2022.9 - Present : Ph.D. in Computer Science, [School of Emergency Management Science and Engineering, University of Chinese Academy of Sciences](https://emse.ucas.edu.cn/index.php/zh), advised by [Prof. Jianbin Jiao](https://people.ucas.edu.cn/~jiaojianbin)
-* 2019.9 - 2022.6 : M.S. in Pattern Recognition and Intelligent System, [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), advised by [Prof. Kaiqi Huang](http://people.ucas.ac.cn/~huangkaiqi?language=en)
-* 2015.9 - 2019.6 : B.E. in Computer Science, [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by [Prof. Yidong Gu](http://people.ucas.ac.cn/~guyidongcsu?language=en)
-* 2012.9 - 2015.6 : [Northeast Yucai School](https://www.neyc.cn/Category_1451/Index.aspx)
+* 2025.8 - Present : Postdoctoral in Beijing Institute of Technology
+* 2022.9 - 2025.6 : Ph.D. in University of Chinese Academy of Sciences
+* 2017.9 - 2020.6 : M.S. in Nanjing Tech University
+* 2013.9 - 2017.6 : B.E. in Nanjing University of Science and Technology
+* 2010.9 - 2013.6 : Putian No. 6 Middle School
 
 
 Experiences
