@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao Chen"
-  avatar           : "profile.png"
-  bio              : "Ph.D. student of University of Chinese Academy of Sciences, interested in multi-agent reinforcement learning"
-  location         : "Beijing, China"
+  name             : "Cunhan Guo"
+  avatar           : "profile.jpg"
+  bio              : "Postdoctoral Researcher of Beijing Institute of Technology, interested in multimodal cognition and computer vision"
+  location         : "Fujian, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/myncbi/hao.chen.18/bibliography/public/"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=y8zHIo4AAAAJ"
-  email            : "chenhao915@mails.ucas.ac.cn"
-  researchgate     : "https://www.researchgate.net/profile/Chen_Hao92"
+  googlescholar    : "https://scholar.google.com/citations?user=WHFB-SIAAAAJ&hl=zh-CN&oi=ao"
+  email            : "guocunhan@bit.edu.cn"
+  researchgate     : # ""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TimeBreaker"
+  github           : "Divine0719"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hao-c-55213211a/"
-  orcid            :  https://orcid.org/0000-0002-5982-0615 
+  linkedin         : #""
+  orcid            :  https://orcid.org/my-orcid?orcid=0000-0002-4546-3928 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChenHao93294199"
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
   youtube          :
-  zhihu            : "https://www.zhihu.com/people/chen-hao-31-30"
+  zhihu            : #""
   # aminer           : "https://aminer.org/profile/633c2444f5d67833f7247ae1"
   # webofscience     : "https://www.webofscience.com/wos/author/record/CAF-9297-2022"
   wikipedia        :
